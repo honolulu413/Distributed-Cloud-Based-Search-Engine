@@ -1,0 +1,69 @@
+body { 
+  background-color: #white;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size:        small;
+  margin:           0px, 100px, 0px, 50px;
+}
+
+#header {
+  margin:           10px;
+  height:           108px;
+}
+
+#mainbar { 
+  font-size:        105%;
+  padding:          15px;
+  margin:           0px 430px 10px 80px;
+}
+
+#sidebar {
+  font-size:        105%;
+  padding:          15px;
+  margin:           0px 10px 10px 10px;
+  position:         absolute;
+  top:              128px;
+  right:            0px;
+  width:            380px;
+}
+
+h1 {
+  font-size:        120%;
+  color:            #954b4b;
+}
+
+h2 { font-size: 120%; }
+
+.slogan { color: #398130; }
+
+.beanheading {
+  text-align:       center;
+  line-height:      1.8em;
+}
+
+.beanheading img {
+  position:         relative;
+  left:             120px;
+}
+
+a:link {
+  color:            #b76666;
+  text-decoration:  none;
+  border-bottom:    thin dotted #b76666;
+}
+a:visited {
+  color:            #675c47;
+  text-decoration:  none;
+  border-bottom:    thin dotted #675c47;
+}
+
+#coupon img {
+  border:           none;
+}
+
+#coupon a:link {
+  border:           none;
+}
+
+#coupon a:visited {
+  border:           none;
+}

@@ -1,0 +1,17 @@
+@CHARSET "utf-8";
+
+.titleClass{
+    line-height:25px;
+    height:28px;
+    padding:5px 10px;
+    margin:10px;
+}
+
+.urlClass{
+    line-height:15px;
+    height:18px;
+    padding:5px 5px;
+    margin:5px;
+    font-size: 10px;
+}
+

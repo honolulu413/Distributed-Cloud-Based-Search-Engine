@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:web="http://xmlns.jcp.org/xml/ns/javaee">
+  <display-name>master</display-name>
+  <servlet>
+    <servlet-name>master</servlet-name>
+    <servlet-class>master.MasterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>master</servlet-name>
+    <url-pattern>/*</url-pattern>
+  </servlet-mapping>
+</web-app>

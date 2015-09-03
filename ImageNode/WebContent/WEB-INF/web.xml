@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app xmlns:web="http://xmlns.jcp.org/xml/ns/javaee">
+  <display-name>image</display-name>
+  
+  <servlet>
+    <servlet-name>Image</servlet-name>
+    <servlet-class>imageNode.ImageNodeServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Image</servlet-name>
+    <url-pattern>/*</url-pattern>
+  </servlet-mapping>
+</web-app>
